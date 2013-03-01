@@ -11,7 +11,7 @@ tagline: Programming Should Be Easier
         <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
         <div>
           <div>
-            {{ post.content | strip_html | truncatewords:75}}
+            {{ post.summary }}
           </div>
           <a href="{{ post.url }}">Read more...</a><br><br>
         </div>
