@@ -4,7 +4,7 @@
  <title>Thought Machine</title>
  <link href="http://elimgoodman.github.com/" rel="self"/>
  <link href="http://elimgoodman.github.com"/>
- <updated>2013-02-28T22:48:24-05:00</updated>
+ <updated>2013-02-28T22:53:02-05:00</updated>
  <id>http://elimgoodman.github.com</id>
  <author>
    <name>Eli Goodman and Dan McCormick</name>
@@ -18,6 +18,14 @@
    <updated>2013-02-28T00:00:00-05:00</updated>
    <id>http://elimgoodman.github.com/2013/02/28/hello-world</id>
    <content type="html">&lt;p&gt;This is a first post. There&amp;#8217;s a lot to say here. So very, very much. It&amp;#8217;s almost overwhelming.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>But wait! There's More!</title>
+   <link href="http://elimgoodman.github.com/2013/02/28/but-wait-theres-more"/>
+   <updated>2013-02-28T00:00:00-05:00</updated>
+   <id>http://elimgoodman.github.com/2013/02/28/but-wait-theres-more</id>
+   <content type="html">&lt;p&gt;Just making sure this works.&lt;/p&gt;</content>
  </entry>
  
  

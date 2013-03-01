@@ -10,3 +10,4 @@ http://elimgoodman.github.com/sitemap.txt
 http://elimgoodman.github.com/tags.html
 
 http://elimgoodman.github.com/2013/02/28/hello-world
+http://elimgoodman.github.com/2013/02/28/but-wait-theres-more

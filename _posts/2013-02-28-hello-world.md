@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
+description: "In which we begin our intrepid journey."
 category: 
 tags: []
-summary: "In which we begin our intrepid journey."
 ---
 {% include JB/setup %}
 

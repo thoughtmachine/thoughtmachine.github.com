@@ -5,8 +5,8 @@
         <description>Thought Machine - Eli Goodman and Dan McCormick</description>
         <link>http://elimgoodman.github.com</link>
         <link>http://elimgoodman.github.com</link>
-        <lastBuildDate>2013-02-28T22:48:24-05:00</lastBuildDate>
-        <pubDate>2013-02-28T22:48:24-05:00</pubDate>
+        <lastBuildDate>2013-02-28T22:53:02-05:00</lastBuildDate>
+        <pubDate>2013-02-28T22:53:02-05:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -15,6 +15,14 @@
                 <description>&lt;p&gt;This is a first post. There&amp;#8217;s a lot to say here. So very, very much. It&amp;#8217;s almost overwhelming.&lt;/p&gt;</description>
                 <link>http://elimgoodman.github.com/2013/02/28/hello-world</link>
                 <guid>http://elimgoodman.github.com/2013/02/28/hello-world</guid>
+                <pubDate>2013-02-28T00:00:00-05:00</pubDate>
+        </item>
+
+        <item>
+                <title>But wait! There's More!</title>
+                <description>&lt;p&gt;Just making sure this works.&lt;/p&gt;</description>
+                <link>http://elimgoodman.github.com/2013/02/28/but-wait-theres-more</link>
+                <guid>http://elimgoodman.github.com/2013/02/28/but-wait-theres-more</guid>
                 <pubDate>2013-02-28T00:00:00-05:00</pubDate>
         </item>
 
