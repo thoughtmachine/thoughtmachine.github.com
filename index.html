@@ -1,0 +1,20 @@
+---
+layout: default
+title: Thought Machine
+tagline: Programming Should Be Easier
+---
+{% include JB/setup %}
+
+<ul>
+    {% for post in site.posts limit 4 %}
+      <li>
+        <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+        <div>
+          <div>
+            {{ post.content | strip_html | truncatewords:75}}
+          </div>
+          <a href="{{ post.url }}">Read more...</a><br><br>
+        </div>
+      </li>
+    {% endfor %}
+</ul>

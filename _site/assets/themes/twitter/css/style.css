@@ -63,3 +63,23 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+  body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    font-family: 'Varela Round', sans-serif;
+    color: #333;
+  }
+  .sidebar-nav {
+    padding: 9px 0;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  footer {
+    margin-top: 24px;
+  }

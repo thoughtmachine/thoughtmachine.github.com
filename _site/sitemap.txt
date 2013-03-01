@@ -1,12 +1,12 @@
 
-http://username.github.com/archive.html
-http://username.github.com/atom.xml
-http://username.github.com/categories.html
-http://username.github.com/index.html
-http://username.github.com/index.html
-http://username.github.com/pages.html
-http://username.github.com/rss.xml
-http://username.github.com/sitemap.txt
-http://username.github.com/tags.html
+http://elimgoodman.github.com/about.html
+http://elimgoodman.github.com/archive.html
+http://elimgoodman.github.com/atom.xml
+http://elimgoodman.github.com/categories.html
+http://elimgoodman.github.com/index.html
+http://elimgoodman.github.com/pages.html
+http://elimgoodman.github.com/rss.xml
+http://elimgoodman.github.com/sitemap.txt
+http://elimgoodman.github.com/tags.html
 
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
+http://elimgoodman.github.com/2013/02/28/hello-world
