@@ -73,7 +73,6 @@
 .sidebar-nav-fixed {
      position:fixed;
      top:60px;
-     width:21.97%;
  }
 
  @media (max-width: 767px) {
@@ -101,4 +100,8 @@
 
   footer {
     margin-top: 24px;
+  }
+
+  #logo {
+    width: 128px;
   }
