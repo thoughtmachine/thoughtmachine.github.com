@@ -24,7 +24,7 @@ The more disquieting flip side to to that, though, is how many people are *not* 
 
 We hope, then, that this blog might serve two purposes: 
 
-1. We'd like to document the projects, historical and present, that aspire to make the act of creating programs easier, less error-prone, faster, and more fun.
-2. We'd also like to offer a vision (and justification) of how the act of creating programs might be improved, even if such a vision has yet to be realized in any meaningful way. Basically, we want to get you fired up about the possibility of a better future with regards to program creation.
+1. We'd like to document the projects, historical and contemporary, that aspire to make the act of creating programs easier, less error-prone, faster, and more fun.
+2. We'd also like to offer some thoughts on how the act of creating programs might be improved, even if our ideas have yet to be realized in any meaningful way. Basically, we want to get you fired up about the possibility of a better future with regards to program creation.
 
 That's it. We hope you enjoy. Maybe you'll even get inspired to take your own strides towards improving the program-making process. Or maybe you'll send us hate mail when we diss Smalltalk or whatever. Either way, we'll keep pounding our fists on the metaphorical table, and maybe when we're old and grizzled, programming computers will look like a very different task indeed.
