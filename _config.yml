@@ -18,6 +18,23 @@ author :
   twitter : username
   feedburner : feedname
 
+authors:
+  eli:
+    name: Eli Goodman
+    display_name: Eli
+    gravatar: c66919cb194f96c696c1da0c47354a6a
+    email: eli.m.goodman@gmail.com
+    web: http://elimgoodman.com
+    twitter: elimgoodman
+    github: elimgoodman
+  jorgen:
+    name: Jörgen Mortensen
+    display_name: Jörgen
+    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
+    email: jorgen@company.com
+    web: http://company.com
+    twitter: company
+    github: jorgenm
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -83,7 +100,7 @@ JB :
   comments :
     provider : false
     disqus :
-      short_name : jekyllbootstrap
+      short_name : thoughtmachine
     livefyre :
       site_id : 123
     intensedebate :

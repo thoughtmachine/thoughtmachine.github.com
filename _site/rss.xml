@@ -2,37 +2,13 @@
 <rss version="2.0">
 <channel>
         <title>Thought Machine</title>
-        <description>Thought Machine - Eli Goodman and Dan McCormick</description>
+        <description>Thought Machine - Thought Machine</description>
         <link>http://thoughtmachine.co/</link>
         <link>http://thoughtmachine.co/</link>
-        <lastBuildDate>2013-03-05T08:20:23-05:00</lastBuildDate>
-        <pubDate>2013-03-05T08:20:23-05:00</pubDate>
+        <lastBuildDate>2013-03-05T09:10:34-05:00</lastBuildDate>
+        <pubDate>2013-03-05T09:10:34-05:00</pubDate>
         <ttl>1800</ttl>
 
-
-        <item>
-                <title>Hello World.</title>
-                <description></description>
-                <link>http://thoughtmachine.co//hello-world</link>
-                <guid>http://thoughtmachine.co//hello-world</guid>
-                <pubDate>2013-03-05T00:00:00-05:00</pubDate>
-        </item>
-
-        <item>
-                <title>Hello World</title>
-                <description>&lt;p&gt;This is a first post. There&amp;#8217;s a lot to say here. So very, very much. It&amp;#8217;s almost overwhelming.&lt;/p&gt;</description>
-                <link>http://thoughtmachine.co//hello-world</link>
-                <guid>http://thoughtmachine.co//hello-world</guid>
-                <pubDate>2013-02-28T00:00:00-05:00</pubDate>
-        </item>
-
-        <item>
-                <title>But wait! There's More!</title>
-                <description>&lt;p&gt;Just making sure this works.&lt;/p&gt;</description>
-                <link>http://thoughtmachine.co//but-wait-theres-more</link>
-                <guid>http://thoughtmachine.co//but-wait-theres-more</guid>
-                <pubDate>2013-02-28T00:00:00-05:00</pubDate>
-        </item>
 
 
 </channel>
