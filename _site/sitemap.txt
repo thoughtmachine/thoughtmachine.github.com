@@ -8,3 +8,5 @@ http://thoughtmachine.co//pages.html
 http://thoughtmachine.co//rss.xml
 http://thoughtmachine.co//sitemap.txt
 http://thoughtmachine.co//tags.html
+
+http://thoughtmachine.co//hello-world
