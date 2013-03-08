@@ -70,6 +70,16 @@
     font-family: 'Varela Round', sans-serif;
     color: #333;
   }
+
+  #content {
+    line-height: 30px;
+    font-size: 18px;
+  }
+
+  #content li {
+    line-height: 30px;
+    margin: 24px 0;
+  }
 .sidebar-nav-fixed {
      position:fixed;
      top:60px;
@@ -128,10 +138,9 @@
     
   .title-bg {
     padding: 48px 0;
-    margin: 0;
     color: white;
     text-shadow: 0 3px 8px #222;
-    margin-bottom: 24px;
+    margin: 0 0 36px;
     background: #3C5D9A;
   }
 
@@ -174,6 +183,13 @@
     color: #131313;
   }
 
+  .navbar .nav > li > a {
+    color: #333;
+}
+  .navbar .nav > li > a:hover {
+    color: #777;
+  }
+
   .posts-header {
     font-size: 30px;
     text-align: center;
@@ -191,6 +207,7 @@
    }
    
    .date {
+     line-height: 20px;
     float: right;
     font-style: italic;
     color: #999;
