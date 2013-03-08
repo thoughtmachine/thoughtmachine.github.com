@@ -149,12 +149,11 @@
   }
     
   .title-bg {
-    padding: 48px 0;
+    padding: 48px 12px;
     color: white;
     text-shadow: 0 3px 8px #222;
     margin: 0 0 36px;
     background: #2BAB44;
-    padding: 12px;
   }
 
   h1 {
