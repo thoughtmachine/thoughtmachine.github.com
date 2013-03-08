@@ -3,17 +3,26 @@ layout: default
 title: Programming Should Be Easier
 ---
 {% include JB/setup %}
-
-<ul>
-    {% for post in site.posts limit 4 %}
-      <li>
-        <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
-        <div>
-          <div>
-            {{ post.description }}
-          </div>
-          <a href="{{ post.url }}">Read more...</a><br><br>
-        </div>
-      </li>
-    {% endfor %}
-</ul>
+<div class="title-bg main-page">
+  <div class="container">
+    <div class="header-container">
+      <h1>Programming should be easier.</h1>
+    </div>
+    <div class="subtitle">
+      This is a blog about how the act of making computer programs could be faster, less error-prone, and more fun.
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="posts-header">
+    Posts
+  </div>
+  <ul>
+      {% for post in site.posts %}
+        <li class="post">
+          <div class='date'>{{ post.date | date: "%m/%d/%Y" }}</div>
+          <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+        </li>
+      {% endfor %}
+  </ul>
+</div>
