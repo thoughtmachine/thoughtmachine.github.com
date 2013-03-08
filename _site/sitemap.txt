@@ -1,12 +1,12 @@
 
-http://thoughtmachine.co//about.html
-http://thoughtmachine.co//archive.html
-http://thoughtmachine.co//atom.xml
-http://thoughtmachine.co//categories.html
-http://thoughtmachine.co//index.html
-http://thoughtmachine.co//pages.html
-http://thoughtmachine.co//rss.xml
-http://thoughtmachine.co//sitemap.txt
-http://thoughtmachine.co//tags.html
+http://thoughtmachine.co/about.html
+http://thoughtmachine.co/archive.html
+http://thoughtmachine.co/atom.xml
+http://thoughtmachine.co/categories.html
+http://thoughtmachine.co/index.html
+http://thoughtmachine.co/pages.html
+http://thoughtmachine.co/rss.xml
+http://thoughtmachine.co/sitemap.txt
+http://thoughtmachine.co/tags.html
 
-http://thoughtmachine.co//hello-world
+http://thoughtmachine.co/hello-world

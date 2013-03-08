@@ -3,10 +3,10 @@
 <channel>
         <title>Thought Machine</title>
         <description>Thought Machine - Thought Machine</description>
-        <link>http://thoughtmachine.co/</link>
-        <link>http://thoughtmachine.co/</link>
-        <lastBuildDate>2013-03-08T08:39:06-05:00</lastBuildDate>
-        <pubDate>2013-03-08T08:39:06-05:00</pubDate>
+        <link>http://thoughtmachine.co</link>
+        <link>http://thoughtmachine.co</link>
+        <lastBuildDate>2013-03-08T12:06:00-05:00</lastBuildDate>
+        <pubDate>2013-03-08T12:06:00-05:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -33,8 +33,8 @@
 &lt;/ol&gt;
 
 &lt;p&gt;That&amp;#8217;s it. We hope you enjoy. Maybe you&amp;#8217;ll even get inspired to take your own strides towards improving the program-making process. Or maybe you&amp;#8217;ll send us hate mail when we diss Smalltalk or whatever. Either way, we&amp;#8217;ll keep pounding our fists on the metaphorical table, and maybe when we&amp;#8217;re old and grizzled, programming computers will look like a very different task indeed.&lt;/p&gt;</description>
-                <link>http://thoughtmachine.co//hello-world</link>
-                <guid>http://thoughtmachine.co//hello-world</guid>
+                <link>http://thoughtmachine.co/hello-world</link>
+                <guid>http://thoughtmachine.co/hello-world</guid>
                 <pubDate>2013-03-05T00:00:00-05:00</pubDate>
         </item>
 

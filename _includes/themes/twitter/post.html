@@ -1,3 +1,10 @@
+<meta property="og:title" content="{{page.title}} on Thought Machine" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="{{site.production_url}}{{page.url}}" />
+<meta property="og:image" content="" />
+<meta property="og:site_name" content="Thought Machine" />
+<meta property="fb:admins" content="2401958" />
+
 <div class="title-bg post-header">
   <div class="container">
     <div class="header-container">
@@ -31,7 +38,14 @@
         {% include JB/tags_list %}
       </ul>
     {% endunless %}  
-
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-513a181f23d4381c"></script>
+<!-- AddThis Button END -->
       <!--<div class="pagination">-->
         <!--<ul>-->
         <!--{% if page.previous %}-->

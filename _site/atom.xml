@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Thought Machine</title>
- <link href="http://thoughtmachine.co//" rel="self"/>
- <link href="http://thoughtmachine.co/"/>
- <updated>2013-03-08T08:39:06-05:00</updated>
- <id>http://thoughtmachine.co/</id>
+ <link href="http://thoughtmachine.co/" rel="self"/>
+ <link href="http://thoughtmachine.co"/>
+ <updated>2013-03-08T12:06:00-05:00</updated>
+ <id>http://thoughtmachine.co</id>
  <author>
    <name>Thought Machine</name>
    <email>blah@email.test</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hello World.</title>
-   <link href="http://thoughtmachine.co//hello-world"/>
+   <link href="http://thoughtmachine.co/hello-world"/>
    <updated>2013-03-05T00:00:00-05:00</updated>
-   <id>http://thoughtmachine.co//hello-world</id>
+   <id>http://thoughtmachine.co/hello-world</id>
    <content type="html">&lt;p&gt;Hi. Welcome to Thought Machine. Thanks for reading. Have a soda.&lt;/p&gt;
 
 &lt;p&gt;We started this blog because we were kind of annoyed. Dan and I would get drinks every so often, and our conversations would inevitably turn to the state of programming. It was amazing that, in the past couple of years, a number of things about making programs have become substantially more awesome: frameworks like Ruby on Rails, libraries like jQuery, and platforms like Amazon Web Services have made the process of creating websites more accessible and less annoying.&lt;/p&gt;
