@@ -120,13 +120,25 @@
     margin-bottom: 24px;
   }
 
-  .navbar-fixed-top .navbar-inner {
+  .navbar .navbar-inner {
     background: white;
     padding: 12px;
     border-bottom: none;
     box-shadow: none;
+    border: none;
+    border-radius: 0;
   }
-    
+
+  .navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    border: none;
+  }
+
+  .navbar .container {
+    width: 1170px;
+  }
   a {
     color: #3C5D9A;
   }
@@ -141,7 +153,8 @@
     color: white;
     text-shadow: 0 3px 8px #222;
     margin: 0 0 36px;
-    background: #3C5D9A;
+    background: #2BAB44;
+    padding: 12px;
   }
 
   h1 {
@@ -149,6 +162,7 @@
     font-family: 'Montserrat'; 
     letter-spacing: 2px;
     font-size: 64px;
+    line-height: 60px;
   }
 
   .subtitle {
@@ -163,13 +177,12 @@
     /*font-family: 'Alfa Slab One'; */
     font-family: 'Montserrat'; 
     font-weight: bold;
-    color: #3C5D9A;
+    color: #2BAB44;
     font-size: 24px;
-    text-shadow: 0 2px 1px #ccc;
   }
 
   .navbar .brand:hover {
-    color: #4B79CC;
+    color: #31D451;
   }
 
   .navbar .nav>.active>a:hover {
