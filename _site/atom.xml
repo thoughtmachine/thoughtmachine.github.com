@@ -4,7 +4,7 @@
  <title>Thought Machine</title>
  <link href="http://thoughtmachine.co/" rel="self"/>
  <link href="http://thoughtmachine.co"/>
- <updated>2013-03-08T12:06:00-05:00</updated>
+ <updated>2013-03-09T10:28:29-05:00</updated>
  <id>http://thoughtmachine.co</id>
  <author>
    <name>Thought Machine</name>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;We started this blog because we were kind of annoyed. Dan and I would get drinks every so often, and our conversations would inevitably turn to the state of programming. It was amazing that, in the past couple of years, a number of things about making programs have become substantially more awesome: frameworks like Ruby on Rails, libraries like jQuery, and platforms like Amazon Web Services have made the process of creating websites more accessible and less annoying.&lt;/p&gt;
 
-&lt;p&gt;However, despite the dramatic improvements being made in the world of libraries and frameworks, one thing remained frustratingly stagnant: &lt;strong&gt;the tools we use to make programs themselves&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;However, despite the dramatic improvements being made in the world of libraries and frameworks, &lt;strong&gt;programs themselves are still frustratingly hard to create&lt;/strong&gt;. Even if you know exactly what you want to make and how you want to make it, the process of turning ideas into working code is an enormous slog. It should be easier.&lt;/p&gt;
 
 &lt;p&gt;So we would get drinks and talk about this stuff and we would end the night pounding our fists on the table. And we figured that other people must be as annoyed about this as we were.&lt;/p&gt;
 
