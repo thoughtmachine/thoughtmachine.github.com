@@ -1,0 +1,38 @@
+- Possibility space
+- Autocomplete
+- Visual studio/the windows + .net ecosystem 
+- Smalltalk
+- OMeta
+- Language workbenches
+- That canadian CS professor video about using research to determine good engineering practices
+- The mathematical origins of programming (math uses abstraction to move further from reality, programming uses abstraction to move from the physical towards the useful/"real")
+- Is more software a good thing? (ie, is definitely good to make programming easier?)
+- Deployd
+- Backlift
+- Handcraft
+- Yeoman/Bower
+- JS Components
+- Bundlescout
+- Imagining a dream programming environment
+    - what's good about vim
+    - what's good about emacs
+    - spreadsheet-ness
+    - API and library awareness (snapping together the lego pieces)
+- Microsoft Access/Filemaker - DB-centric "programming" environments
+- APL
+- http://paulcollier.ca/
+- http://www.tiledtext.com/
+- Live Programming
+- UX in programming environments
+- No silver bullet
+- Resharper
+- Core hypothesis: apply prod dev methodology to programming
+- What would build measure learn look like for a coding tool?
+- The whole widget
+- Advances in libraries and frameworks
+- The fundamental act of programming is typing
+- Cathedral and bazaar
+- Unix as IDE 
+- The spreadsheet
+- http://runnable.com/
+- http://webshell.io/
