@@ -36,3 +36,5 @@
 - The spreadsheet
 - http://runnable.com/
 - http://webshell.io/
+- http://hackety.com/, http://shoesrb.com/
+- http://scratch.mit.edu/
