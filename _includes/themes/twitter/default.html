@@ -1,6 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    {% capture header %}
+
+    {% if page.title %}
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }} on Thought Machine" />
+    {% else %}
+    <meta property="og:type" content="website" />	
+    {% endif %}
+
+    {% if site.title %}
+    <meta property="og:site_name" content="{{ site.title }}" />
+    {% endif %}
+
+    {% if page.url %}
+    <meta property="og:url" content="{{ site.production_url }}{{ page.url }}" />
+    {% endif %}
+
+    {% if page.date %}
+    <meta property="article:published_time" content="{{page.date | date_to_xmlschema}}" />
+    {% endif %}
+
+    {% if site.owner_link %}
+    <meta property="article:author" content="{{ site.owner_link }}" />
+    {% endif %}
+
+    <meta property="fb:admins" content="2401958" />
+    {% endcapture %}{{ header | strip_newlines }}
+
     <meta charset="utf-8">
     <title>{{site.title}} :: {{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
