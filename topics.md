@@ -37,4 +37,6 @@
 - http://runnable.com/
 - http://webshell.io/
 - http://hackety.com/, http://shoesrb.com/
-- http://scratch.mit.edu/
+- Graphical programming languages
+    - http://scratch.mit.edu/
+    - Blockly: https://code.google.com/p/blockly
