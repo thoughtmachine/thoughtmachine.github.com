@@ -234,7 +234,13 @@
    }
 
    .twitter-share-button {
-    margin-right: 8px;
+    margin-left: 9px;
+    margin-bottom: -5px;
+   }
+
+   .hn-share-iframe {
+     margin-bottom: -6px;
+     margin-left: -21px;
    }
 
  @media (max-width: 767px) {
