@@ -40,3 +40,10 @@
 - Graphical programming languages
     - http://scratch.mit.edu/
     - Blockly: https://code.google.com/p/blockly
+- DSLs vs layers of abstractions -- can we pinpoint the difference and decide which could be a way forward?
+- Canonical examples to see if we're making progress
+    - Simple poll app
+    - Blog
+    - Photo album
+    - 3 Photos, 3 Questions (http://three-photos-three-questions.herokuapp.com/)
+- Creating lots of RESTful building blocks scattered around the internet (languages would become just control logic calling out to external services)
