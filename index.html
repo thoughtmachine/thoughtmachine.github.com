@@ -19,9 +19,12 @@ title: Programming Should Be Easier
   </div>
   <ul>
       {% for post in site.posts %}
+        {% assign author = site.authors[post.author] %}
         <li class="post">
-          <div class='date'>{{ post.date | date: "%m/%d/%Y" }}</div>
-          <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+        <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+        <div class="post-info">
+          <span>{{post.description}}</span>
+        </div>
         </li>
       {% endfor %}
   </ul>

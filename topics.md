@@ -47,3 +47,5 @@
     - Photo album
     - 3 Photos, 3 Questions (http://three-photos-three-questions.herokuapp.com/)
 - Creating lots of RESTful building blocks scattered around the internet (languages would become just control logic calling out to external services)
+- Code Bubbles
+- RDF
