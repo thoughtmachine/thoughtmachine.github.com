@@ -31,10 +31,31 @@ Typing is already pretty predominant in programming tools, so let's now explore 
 
 ### Discoverable and Latent Interfaces
 
-Clicking facilitates **discoverable** interfaces, while typing fasciltates **latent** interfaces. Each interface type has its place. Discoverable interfaces give the user information ahead of time, while latent interfaces give feedback once the user has done something.
+Clicking facilitates **discoverable** interfaces, while typing fasciltates **latent** interfaces. Each interface type has its place. Discoverable interfaces give the user information ahead of time, while latent interfaces give feedback once the user has done something:
+
+![image](http://thoughtmachine.co/assets/themes/twitter/img/feedback-cli.png)
+
+Because the set of options in a clickable interface needs to be finite (so they can all fit on the screen), it can be very fast for the user to gain feedback on the correct way to use the interface and figure out what each element does. On the other hand, [whole sites](http://www.bashoneliners.com/) exist to compensate for the complexity that arises out a latent interface. I've been using the command line for awhile, and I've probably used 10% of the total commands that come with OS/X. On the other hand, I clicked on every button in Illustrator within 20 minutes of installing the program.
+
+### Information In, Information Out
+
+Typing and clicking differ in terms of how they optimize for **input** verses **output**, in terms of information flowing to and from the programmer. In the act of building any piece of software, there will be phases in which a lot of information is flowing from the programmer to the computer (think about those first giddy days of a project, when you're writing thousands of lines of code). There are also phases in which an equal amount of information is flowing from the computer back to the programmer (during debugging or testing, for example). Because clickable interfaces can rely on the entirety of the screen, their capacity to communicate information back to the programmer is much higher than typing interfaces. Conversely, due to the physical efficiencies of the act of typing versus moving a cursor all over the place, typing is a much more efficient way to getting information from a programmer's head into a computer.
+
+### Focus and Exploration
+
+The most salient different between the two modes of interaction is the type of mindset they accomdate best. Typing facilitates a **focussed** mindset, while clicking fascilitates an **exploratory** mindset. When you know exactly what you want to do and want to do it quickly, typing is usually the best choice. If you want to poke around and figure out what's possible, clicking is usually the best choice.
+
+As programmers, I think that we've come to hold the focussed mindset in much higher esteem than the exploratory mindset. Much has [been](http://psygrammer.com/2011/02/10/the-flow-programming-in-ecstasy/) [written](http://blog.ninlabs.com/2013/01/programmer-interrupted/) about the importance of the [flow state](http://en.wikipedia.org/wiki/Flow_state) for programmers. While I don't disagree that the flow state is an essential element of doing good work (for almost any job, not just programming), the idea that it can only look like intense periods of typing is a bit limiting.
+
+Do we have any SimCity 2000 fans in crowd? Show of hands? I knew it. I know this sounds weird, but I think of SimCity as a classic example of a clickable interface-driven, exploratory flow-state experience.
+
+
 
 - Ability to take in much more information visually
 - Discoverable vs latent
 - Input vs output
 - Focussed vs exploratory
+- How to get the benefits of one in the other
+	- 2D/visual but navigated by keyboard
+	- Max style
 
