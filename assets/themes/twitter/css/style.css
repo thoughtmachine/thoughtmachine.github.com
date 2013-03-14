@@ -234,7 +234,8 @@
     text-align: right;
    }
 
-   .twitter-share-button {
+   .twitter-share-button,
+   .twitter-follow-button {
     margin-left: 9px;
     margin-bottom: -3px;
    }
