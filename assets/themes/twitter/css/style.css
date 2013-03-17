@@ -277,3 +277,12 @@
     display: none;
    }
  }
+
+ .explanation {
+     border-bottom: 1px solid #CCCCCC;
+     color: #666666;
+     font-style: italic;
+     margin-bottom: 24px;
+     padding-bottom: 12px;
+     text-align: center;
+ }
