@@ -286,3 +286,8 @@
      padding-bottom: 12px;
      text-align: center;
  }
+
+ .mono {
+    font-family: monospace;
+    font-weight: bold;
+ }
