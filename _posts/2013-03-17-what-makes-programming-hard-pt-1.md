@@ -19,26 +19,26 @@ If the course was going to be exciting for people who were learning how to progr
 
 So I made a syllabus for the whole thing, and it seemed pretty realistic. We would spend a day on HTML, a day on CSS, then a few days on PHP basics. As someone who's been programming for a little while, the concepts seemed pretty simple, especially if they were explained well (and naturally, I was pretty confident that I would explain them well). HTML is just tags! CSS is just selectors and rules! Easy. 
 
-And the thing was - at first, it actually *was* kind of easy. People started to get it. HTML *is* just tags! Cool! Everything seemed like it might actually work out.
+What's amazing is, at first, it actually *was* kind of easy. People started to get it. HTML *is* just tags! Cool! Everything seemed like it might actually work out.
 
-The problem arose when CSS was introduced. The class did a pretty good job of understanding what HTML was. They also did a fine job of learning the different tags. However, adding CSS to the mix added the following nasty complications:
+The problem arose when CSS was introduced:
 
 1. There was now a second, *completely different* technology to understand.
-3. This second technology had a complex relationship to the first technology, and doing anything useful required a firm grasp on both.
-4. This technology used a *completely different* syntax for expressing what it was meant to express.
+2. This second technology had a complex relationship to the first technology, and doing anything useful required a firm grasp on both.
+3. This technology used a *completely different* syntax for expressing what it was meant to express.
 4. There were now a whole bunch of *new words to learn*.
 
 The first point was pretty easy to surmount. The second point was avoidable by omission (we just used tag-based selectors to begin with). But the third and fourth points really slowed people down.
 
-It's not like it was some sort of insurmountable obstacle. People eventually learned enough of the CSS vocabulary to do what they wanted to do, and then they moved on. What was interesting is that I would see the pattern repeat as we moved into each new area. They would understand the concept, and the relationship of the current concept to the others. But the rote ingestion of the syntax and vocabulary of the technology would take time. Lots of time.
+It's not like they were insurmountable obstacles. People eventually learned enough of the CSS vocabulary and sytnax to do what they wanted to do, and then they moved on. What was interesting is that I would see the pattern repeat as we moved into each new area. They would understand the concept, and the relationship of the current concept to the others. But the rote ingestion of syntax and vocabulary would take time. Lots of time.
 
-The thing that I noticed most, watching these people struggle to make their webpage have a red background, is just how much *random information* that you need to ingest. You need to know that a link is, counterintuitively, represented by the tag <span class="mono">a</span>. You need to remember that every CSS rule needs to end in a semicolon, or things will fail silently. You need to know about <span class="mono">float</span> and <span class="mono">clear</span> and the fact that <span class="mono">div</span> defaults to <span class="mono">display: block</span> but <span class="mono">span</span> doesn't. *And that's just the easy stuff.*
+The thing that I noticed most, watching these people struggle to make their webpages look the way they wanted them to look, is just how much *random information* they needed to ingest. They needed to know that a link is, counterintuitively, represented by the tag <span class="mono">a</span> and not the <span class="mono">link</span> tag. They needed to remember that every CSS rule needs to end in a semicolon, or things fail silently. They needed to know about <span class="mono">float</span> and <span class="mono">clear</span> and the fact that <span class="mono">div</span> defaults to <span class="mono">display: block</span> but <span class="mono">span</span> doesn't. *And they were still dealing the easy stuff.*
 
-So the first difficulty of programming could be summarized thusly:
+So I think the first difficulty of programming could be summarized thusly:
 
 ***To make any sort of computer program, even a very simple one, the amount of random trivia you need to know is completely bananas.***
 
-So even if you understand, conceptually, what CSS is, you have to just know *so much stuff*. What's the rule for making text italicized? How about centering an image in the exact middle of the page? Turning all the links green?
+-------
 
 Googling helps. And Stackoverflowing. However, they're not a panacea: for beginners, you have to know a certain amount to even search for answers effectively (it's sort of like how you need to know the fundamentals of spelling before you can look up a word in the dictionary). And for experts, no site on earth is going to help you manage the huge amount of information that you need to have in hand to deal with *your* project.
 
