@@ -4,7 +4,7 @@ title: "What Makes Programming Hard? Part 1"
 description: "Knowing is half the battle."
 category: 
 tags: []
-published: true
+published: false
 author: eli
 ---
 {% include JB/setup %}
