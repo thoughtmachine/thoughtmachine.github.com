@@ -74,6 +74,7 @@
   #content {
     line-height: 32px;
     font-size: 20px;
+    margin-bottom: 48px;
   }
 
   #content li {
@@ -290,4 +291,8 @@
  .mono {
     font-family: monospace;
     font-weight: bold;
+ }
+
+ #disqus_thread {
+    margin-top: 48px;
  }
