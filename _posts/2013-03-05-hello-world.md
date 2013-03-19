@@ -5,6 +5,7 @@ description: "An introduction."
 category: 
 tags: []
 author: eli
+discoverable: true
 published: true
 ---
 
