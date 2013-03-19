@@ -12,7 +12,7 @@ author: eli
 
 Before talking about how to make programming easier, we should probably talk about why programming is hard to begin with. I've come up with a couple of problems, and I'll try to do a post on each one.
 
-##Problem #1: Knowing Stuff
+***Problem #1: To make any sort of computer program, the amount of arbitrary stuff you need to know is completely bananas.***
 
 A couple of years ago, I decided that it would be cool to try and teach some of my non-engineer coworkers how to program. I set up a small course, and a bunch of people signed up. I wanted to make the course interesting and relevant for them, so I decided that we would all make dynamic websites.
 
@@ -24,16 +24,10 @@ The problem arose when CSS was introduced. People understood what it was for, an
 
 The thing that I noticed most, watching my students struggle to make their webpages look the way they wanted them to look, is just how much *arbitrary information* they needed to ingest. They needed to know that a link is, counterintuitively, represented by the <span class="mono">a</span> tag and not the <span class="mono">link</span> tag. They needed to remember that every CSS rule needs to end in a semicolon, or things fail silently. They needed to know about <span class="mono">float</span> and <span class="mono">clear</span> and the fact that <span class="mono">div</span> defaults to <span class="mono">display: block</span> but <span class="mono">span</span> doesn't. *And they were still dealing with the easy stuff.*
 
-So I think the first difficulty of programming could be summarized thusly:
+Something really struck me as I watched them struggle to remember which words to use and how to use them: Even though I've been programming for years, I still have the same problem - I need to keep an unmanageable amount of arbitrary stuff in brain.
 
-***To make any sort of computer program, even a very simple one, the amount of arbitrary stuff you need to know is completely bananas.***
+Certain aspects of this problem definitely do get easier with experience. For example, I don't have to think twice about how to, say, iterate through a list in Python. It's in muscle memory, and pulling that factoid up doesn't consume much brainpower. I've also figured out how to use Google and Stack Overflow to get answers to most common problems (which is actually tough for a beginner to do - they have to know enough to know how to formulate the question). However, no site on earth is going to help me manage the huge amount of information that I need to have on hand in order to deal with *my particular* project.
 
--------
+So even though I can call up the syntax and vocabulary for a given language pretty easily, I'm forced to become aware of a multitude of *other* data points, all of which need to be available for recall at a moment's notice: the fact that method <span class="mono">foo()</span> is really computationally expensive and shouldn't be called very often; the order of the parameters to the <span class="mono">Bar</span> constructor; what the hell I named the thing that fetches the data from the <span class="mono">/quux</span> endpoint; and so on. 
 
-Google helps. And Stack Overflow. However, they're not a panacea: for beginners, you have to know a certain amount to even search for answers effectively (it's sort of like how you need to know the fundamentals of spelling before you can look up a word in the dictionary). And for experts, no site on earth is going to help you manage the huge amount of information that you need to have on hand in order to deal with *your* project.
-
-For this reason, getting better at programming doesn't make this problem go away. So if you're someone who programs a lot, you don't have to think twice about how to, say, iterate through a list in Python. It's in muscle memory, and pulling that factoid up doesn't consume much brainpower. However, you're forced to become aware of a multitude of *other* data points, all of which need to be available for recall at a moment's notice: the naming conventions for the project you're working on; the fact that method <span class="mono">foo</span> is really computationally expensive and shouldn't be called very often; the order of the parameters to the <span class="mono">Bar</span> constructor; and so on. 
-
-OK, so, yeah, the amount of stuff you have to know in order to program is pretty big, and it doesn't get smaller as you get better. However! A lot of the pain of having to *know* is offset by our ability to *understand*. For example, if you can build up a mental model of how you've organized all the Javascript files in your project, you don't have to store all of their names and locations in your short-term memory; you can simply query the mental model you've got built up. 
-
-But here's the thing - understanding in programming is almost as difficult as knowing. And this will be the topic of part 2. 
+There are a bunch of fields that require their practitioners to know a huge amount of arbitrary information: medicine and law come to mind. The difference with programming, and the real root of the problem, is that *the computer doesn't help you as much as it could*. A lawyer can't consult a statute while arguing a point; a surgeon can't break out their smartphone in the middle of an operation. But we're sitting in front of amazing informational retrieval devices while we struggle to retrieve information from our sluggish, extremely limited brains. The computer can help us overcome this challenge. It just hasn't gotten there yet.
