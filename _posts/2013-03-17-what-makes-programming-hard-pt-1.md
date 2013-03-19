@@ -19,15 +19,13 @@ I made a syllabus for the whole thing, and it seemed pretty realistic. We would 
 
 What's amazing is, at first, it actually *was* kind of easy. People started to get it. HTML *is* just tags! Cool! Everything seemed like it might actually work out.
 
-The problem arose when CSS was introduced. People understood what it was for, and how it related to HTML. But learning a completely new  *syntax* and *vocabulary* really slowed people down.
+The problem arose when CSS was introduced. People understood what it was for, and how it related to HTML. But learning a completely new  *syntax* and *vocabulary* really slowed them down.
 
-It's not like they were insurmountable obstacles. People eventually learned enough of the CSS syntax and vocabulary to do what they wanted to do. What was interesting is that I would see the pattern repeat as we moved into each new area. They would understand the concept, and the relationship of the current concept to the others. But figuring out which words and symbols to use and how to use them ended up taking lots of time and brainpower.
-
-The thing that I noticed most, watching my students struggle to make their webpages look the way they wanted them to look, is just how much *random information* they needed to ingest. They needed to know that a link is, counterintuitively, represented by the <span class="mono">a</span> tag and not the <span class="mono">link</span> tag. They needed to remember that every CSS rule needs to end in a semicolon, or things fail silently. They needed to know about <span class="mono">float</span> and <span class="mono">clear</span> and the fact that <span class="mono">div</span> defaults to <span class="mono">display: block</span> but <span class="mono">span</span> doesn't. *And they were still dealing with the easy stuff.*
+The thing that I noticed most, watching my students struggle to make their webpages look the way they wanted them to look, is just how much *arbitrary information* they needed to ingest. They needed to know that a link is, counterintuitively, represented by the <span class="mono">a</span> tag and not the <span class="mono">link</span> tag. They needed to remember that every CSS rule needs to end in a semicolon, or things fail silently. They needed to know about <span class="mono">float</span> and <span class="mono">clear</span> and the fact that <span class="mono">div</span> defaults to <span class="mono">display: block</span> but <span class="mono">span</span> doesn't. *And they were still dealing with the easy stuff.*
 
 So I think the first difficulty of programming could be summarized thusly:
 
-***To make any sort of computer program, even a very simple one, the amount of random stuff you need to know is completely bananas.***
+***To make any sort of computer program, even a very simple one, the amount of arbitrary stuff you need to know is completely bananas.***
 
 -------
 
