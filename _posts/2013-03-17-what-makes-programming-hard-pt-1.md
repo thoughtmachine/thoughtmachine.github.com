@@ -5,7 +5,7 @@ description: "Knowing is half the battle."
 category: 
 tags: []
 published: true
-discoverable: false
+discoverable: true
 author: eli
 ---
 {% include JB/setup %}
