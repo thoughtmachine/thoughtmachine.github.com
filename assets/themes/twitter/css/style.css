@@ -284,10 +284,10 @@
     max-width: 600px;
  }
 
- ul {
-   list-style: disc;
-   margin-left: 24px;
- }
+ /*ul {*/
+   /*list-style: disc;*/
+   /*margin-left: 24px;*/
+ /*}*/
  .explanation {
      border-bottom: 1px solid #CCCCCC;
      color: #666666;
