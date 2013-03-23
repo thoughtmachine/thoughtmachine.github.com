@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Hello World"
-description: "An introduction."
+description: "An introduction"
 category: 
 tags: []
 author: eli
+discoverable: true
 published: true
 ---
 
