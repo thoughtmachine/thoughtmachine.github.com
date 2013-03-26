@@ -4,7 +4,8 @@ title: "Clicking vs Typing"
 description: "Methods of interaction matter"
 category: 
 tags: []
-published: true
+published: false
+discoverable: false
 author: eli
 ---
 {% include JB/setup %}
