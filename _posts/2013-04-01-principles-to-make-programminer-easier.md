@@ -14,7 +14,7 @@ publish_date: 2013-04-02 00:00:00
 
 Let's talk about principles.
 
-Eli and I were both inspired by Bret Victor's [Inventing on Principle](http://en.wikipedia.org/wiki/Type_introspection) presentation.  Not only does he reveal new, mind-expanding ways of writing code, but he extrapolates the fundamental concepts into a philsophy of how we should lead our lives.  He's our kind of dude.
+Eli and I were both inspired by Bret Victor's [Inventing on Principle](http://vimeo.com/36579366) presentation.  Not only does he reveal new, mind-expanding ways of writing code, but he extrapolates the fundamental concepts into a philsophy of how we should lead our lives.  He's our kind of dude.
 
 Bret talks about his own life principle -- that creators need an immediate connection -- and encourages all of us to ask, "What's <i>my</i> principle?"  After a bit of navel gazing, I settled on a sufficiently lofty principle for myself: I want to help people reach their full potential.  I want to help people do all they are capable of.
 
