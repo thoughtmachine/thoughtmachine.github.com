@@ -56,7 +56,7 @@ An oft-cited example of composability that can inspire us is the Unix command li
 
 ## Visibility
 
-Programming is too opaque.  This never occurred to me until I read Bret Victor's post on [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) and saw what it inspired in [LightTable](http://www.lighttable.com/).  One day soon I think we'll realize we've been programming blindly for the past 30 years.  Using a barebones text editor will feel as constraining as the punch cards of the 1970s.  Future programs will let you see your data, your objects, and all their interactions in real-time as you create them.
+Programming is too opaque.  This never occurred to me until I read Bret Victor's post on [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) and saw what it inspired in [Light Table](http://www.lighttable.com/).  One day soon I think we'll realize we've been programming blindly for the past 30 years.  Using a barebones text editor will feel as constraining as the punch cards of the 1970s.  Future programs will let you see your data, your objects, and all their interactions in real-time as you create them.
 
 And just as data will be visible, so too will the structure of your code.  It pains me to work through directory hierarchies of assorted files of different types that all relate to a single project.  A project should be presented as a unified whole, and allow a developer to zoom into the relevant bits.  Visibility, as it relates to programming, is not just about showing the hidden parts, but also about obscuring complexity so you can focus on only the pertinent pieces.
 

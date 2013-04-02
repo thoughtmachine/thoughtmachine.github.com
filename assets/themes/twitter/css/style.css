@@ -80,6 +80,11 @@
   #content li {
     line-height: 30px;
     margin: 24px 0;
+    padding-left: 12px;
+  }
+
+  blockquote {
+    margin: 24px 0;
   }
 .sidebar-nav-fixed {
      position:fixed;
@@ -103,6 +108,12 @@
     list-style: none;
     margin: 0;
     padding: 0;
+  }
+
+  #content ul {
+      list-style: disc;
+      /*margin-left: 24px;*/
+      margin: 24px;
   }
   
   #pages-list {
