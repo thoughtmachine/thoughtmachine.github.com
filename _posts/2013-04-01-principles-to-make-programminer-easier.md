@@ -7,6 +7,7 @@ tags: []
 author: dan
 discoverable: true
 published: true
+publish_date: 2013-04-02 00:00:00
 ---
 
 {% include JB/setup %}

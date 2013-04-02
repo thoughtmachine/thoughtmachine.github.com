@@ -69,6 +69,7 @@ task :post do
     post.puts "published: true"
     post.puts "discoverable: false"
     post.puts "author: "
+    post.puts "publish_date: #{date} 00:00:00"
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end

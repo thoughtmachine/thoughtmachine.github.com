@@ -15,10 +15,13 @@
       <!--<div class="date">-->
         <!--<span>{{ page.date | date_to_long_string }}</strong>-->
       <!--</div>-->
+    
       <div id="content" class="content">
         {{ content }}
+        <div class="author">Posted by {{author.display_name}} on {{page.publish_date | date: "%m.%d.%Y"}}</div>
       </div>
-
+        
+      {% assign author = site.authors[page.author] %}
     {% unless page.categories == empty %}
       <ul class="tag_box inline">
         <li><i class="icon-folder-open"></i></li>
