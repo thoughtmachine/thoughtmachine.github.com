@@ -158,6 +158,14 @@
     color: #3C5D9A;
   }
 
+  #content a {
+    border-bottom: 1px dotted #3C5D9A;
+  }
+
+  #content a:hover {
+    border-bottom: 1px dotted #4B79CC;
+  }
+
   a:hover {
     color: #4B79CC;
     text-decoration: none;
